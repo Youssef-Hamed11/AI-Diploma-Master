@@ -1,2 +1,2 @@
 # AI-Diploma-Master
-this is my try
+The training environment.
